@@ -4,12 +4,13 @@
 
 - Project registration number: CZ.02.01.01/00/22_008/0004643
 - Implementation time: 1. 1. 2024 – 30. 6. 2028
-- Project webpage: https://cobra.cs.cas.cz/wiki/pmwiki.php/Proj/Brady
+- Project webpage: <https://cobra.cs.cas.cz/wiki/pmwiki.php/Proj/Brady>
 - Organizing institution: [Institute of Computer Science, The Czech Academy of Sciences](https://www.cs.cas.cz/en)
 - Programme Johannes Amos Comenius - [P JAC](https://opjak.cz/en/)
 - This project is co-funded by the EU.
 
 ## About the project
+
 The project is focused on the development of computational models of brain activity that capture the dynamics of the brain at different time scales. The goal of the project is to develop research in the field of applied computational neuroscience in the Czech Republic, especially through the implementation of top research, strengthening ties to top foreign workplaces, developing the personnel capacities of the involved research teams and strengthening their experimental and computational capacities.
 
 The project has a distinctly interdisciplinary character both in terms of the methods used and the experts involved. It mainly uses neuropsychological experiments, including complex multimodal sensory stimulation, measurements using advanced neuroimaging methods, experimental or therapeutic intervention using non-invasive electrical/magnetic stimulation or drug administration. On the other hand, it develops and uses computational models of brain dynamics and advanced methods of data analysis, including machine learning.
@@ -25,3 +26,8 @@ At the same time, the project is designed to fulfil its application potential al
 For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php/Proj/Jobs).
 
 ![EU_MSMT](https://github.com/BRADY-research-project/.github/assets/6525217/3084624a-f9ad-4d1b-926a-60c928db7be6)
+
+## Results
+
+- [https://github.com/CSNG-MFF/osmorph/](https://github.com/CSNG-MFF/osmorph/)
+- [https://github.com/SoftwareImpacts/SIMPAC-2024-84](https://github.com/SoftwareImpacts/SIMPAC-2024-84)
