@@ -4,7 +4,7 @@
 
 - Project registration number: CZ.02.01.01/00/22_008/0004643
 - Implementation time: 1. 1. 2024 – 30. 6. 2028
-- Project webpage: <https://cobra.cs.cas.cz/wiki/pmwiki.php/Proj/Brady>
+- Project webpage: <https://cobra.cs.cas.cz/brady/>
 - Organizing institution: [Institute of Computer Science, The Czech Academy of Sciences](https://www.cs.cas.cz/en)
 - Programme Johannes Amos Comenius - [P JAC](https://opjak.cz/en/)
 - This project is co-funded by the EU.
