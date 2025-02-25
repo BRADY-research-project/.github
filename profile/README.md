@@ -31,3 +31,4 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
 
 - [https://github.com/CSNG-MFF/osmorph/](https://github.com/CSNG-MFF/osmorph/)
 - [https://github.com/SoftwareImpacts/SIMPAC-2024-84](https://github.com/SoftwareImpacts/SIMPAC-2024-84)
+- [https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0](https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0)
