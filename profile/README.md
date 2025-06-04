@@ -34,3 +34,4 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
 - [https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0](https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0)
 - https://github.com/cobragroup/amplitude-chimera-epilepsy
 - https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo
+- https://github.com/JiriHammer/SEEG_dataAnalysis
