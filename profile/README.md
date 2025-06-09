@@ -35,3 +35,4 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
 - https://github.com/cobragroup/amplitude-chimera-epilepsy
 - https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo
 - https://github.com/JiriHammer/SEEG_dataAnalysis
+- https://github.com/ModelDBRepository/2016664
