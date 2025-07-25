@@ -29,11 +29,60 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
 
 ## Results
 
-- [https://github.com/CSNG-MFF/osmorph/](https://github.com/CSNG-MFF/osmorph/)
-- [https://github.com/SoftwareImpacts/SIMPAC-2024-84](https://github.com/SoftwareImpacts/SIMPAC-2024-84)
-- [https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0](https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0)
-- https://github.com/cobragroup/amplitude-chimera-epilepsy
-- https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo
-- https://github.com/JiriHammer/SEEG_dataAnalysis
-- https://github.com/ModelDBRepository/2016664
-- https://github.com/AditiKathpalia/EEG_preprocess_coherence_est
+<ul>
+  <li>Code accompanying [Ghosh et al., 2025|https://doi.org/10.1101/2024.05.26.595969]
+    <ul>
+      <li>[amplitude-chimera-epilepsy|https://github.com/cobragroup/amplitude-chimera-epilepsy]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [--, 202-|doi--]
+    <ul>
+      <li>[osmorph|https://github.com/CSNG-MFF/osmorph/]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Flink et al., 2024|https://doi.org/10.1016/j.simpa.2024.100667]
+    <ul>
+      <li>[SIMPAC-2024-84|https://github.com/SoftwareImpacts/SIMPAC-2024-84]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Moraresku et al., 2025|https://doi.org/10.1007/s12264-025-01371-x]
+    <ul>
+      <li>[iEEG_scripts|https://github.com/kamilvlcek/iEEG_scripts/tree/v3.1.0]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Buckova et al., 2025|https://doi.org/10.7554/eLife.95823.4]
+    <ul>
+      <li>[PCNtoolkit-demo|https://github.com/predictive-clinical-neuroscience/PCNtoolkit-demo]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Hammer et al., 2024|https://doi.org/10.1038/s42003-024-06732-2]
+    <ul>
+      <li>[SEEG_dataAnalysis|https://github.com/JiriHammer/SEEG_dataAnalysis]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Kořenek et al., 2025|https://doi.org/10.1103/PhysRevE.111.L042302]
+    <ul>
+      <li>[2016664|https://github.com/ModelDBRepository/2016664]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Davoodi et al., 2025|https://doi.org/10.1016/j.bspc.2024.107362]
+    <ul>
+      <li>[EEG_preprocess_coherence_est|https://github.com/AditiKathpalia/EEG_preprocess_coherence_est]</li>
+    </ul>
+  </li>
+</ul>
+
