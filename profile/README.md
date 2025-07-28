@@ -37,7 +37,7 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code accompanying [--, 202-|doi--]
+  <li>Code
     <ul>
       <li>[osmorph|https://github.com/CSNG-MFF/osmorph/]</li>
     </ul>
@@ -85,4 +85,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
-
+<ul>
+  <li>Code
+    <ul>
+      <li>[DBS-VTA-optimisation|https://github.com/AMikroulis/DBS-VTA-optimisation]</li>
+    </ul>
+  </li>
+</ul>
