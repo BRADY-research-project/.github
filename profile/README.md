@@ -92,3 +92,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying [Strobl et al., 2025|https://doi.org/10.1016/j.bspc.2024.107128]
+    <ul>
+      <li>[STart_ASSRexp|https://github.com/strobja/STart_ASSRexp]</li>
+    </ul>
+  </li>
+</ul>
