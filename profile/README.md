@@ -99,3 +99,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying "An open-source replication for fast and accessible light propagation modeling in brain tissue"
+    <ul>
+      <li>[bsf_light|https://github.com/CSNG-MFF/bsf_light]</li>
+    </ul>
+  </li>
+</ul>
