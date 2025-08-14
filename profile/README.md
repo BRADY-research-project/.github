@@ -106,3 +106,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying [Hok et al., 2025|https://doi.org/10.1111/ene.16421]
+    <ul>
+      <li>[MS-project|https://github.com/pavelhok/calculate_kd/tree/MS-project]</li>
+    </ul>
+  </li>
+</ul>
