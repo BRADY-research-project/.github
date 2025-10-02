@@ -113,3 +113,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying [Chrtkova et al., 2025|https://doi.org/10.1038/s41598-025-18291-5]
+    <ul>
+      <li>[EOD_tools|https://github.com/ivanachrtkova/EOD_tools]</li>
+    </ul>
+  </li>
+</ul>
