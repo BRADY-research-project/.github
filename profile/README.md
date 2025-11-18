@@ -86,7 +86,7 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code
+  <li>Code accompanying [Mikroulis et al., 2025|https://doi.org/10.3389/fnins.2025.1661987]
     <ul>
       <li>[DBS-VTA-optimisation|https://github.com/AMikroulis/DBS-VTA-optimisation]</li>
     </ul>
