@@ -100,7 +100,7 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code accompanying "An open-source replication for fast and accessible light propagation modeling in brain tissue"
+  <li>Code accompanying [Berling et al., 2025|https://doi.org/10.1371/journal.pone.0330681]
     <ul>
       <li>[bsf_light|https://github.com/CSNG-MFF/bsf_light]</li>
     </ul>
