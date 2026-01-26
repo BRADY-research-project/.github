@@ -135,3 +135,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying [Rózsa et al., 2025|https://doi.org/10.1038/s41467-026-68578-y]
+    <ul>
+      <li>[mozaik-models|https://github.com/CSNG-MFF/mozaik-models]</li>
+    </ul>
+  </li>
+</ul>
