@@ -142,3 +142,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying [Nagy et al., 2026|https://doi.org/10.3390/s26041389]
+    <ul>
+      <li>[Automated-Detection-of-Phasic-REM-from-EOG|https://github.com/Tomas-Nagy-BiomTech/Automated-Detection-of-Phasic-REM-from-EOG]</li>
+    </ul>
+  </li>
+</ul>
