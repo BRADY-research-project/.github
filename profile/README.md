@@ -130,8 +130,14 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
 <ul>
   <li>Code accompanying [Girier et al., 2025|https://doi.org/10.1371/journal.pcbi.1013838]
     <ul>
-      <li>[Low-Frequency-Electrical-Stimulation-and-Seizure-Delay
-|https://github.com/GuillaumeGirier/Low-Frequency-Electrical-Stimulation-and-Seizure-Delay]</li>
+      <li>[Low-Frequency-Electrical-Stimulation-and-Seizure-Delay|https://github.com/GuillaumeGirier/Low-Frequency-Electrical-Stimulation-and-Seizure-Delay]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
+  <li>Code accompanying [Varga et al., 2025|https://doi.org/10.1111/ejn.70309]
+    <ul>
+      <li>[SlicerDBSCoalignment|https://github.com/IVarha/SlicerDBSCoalignment]</li>
     </ul>
   </li>
 </ul>
