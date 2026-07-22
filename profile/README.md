@@ -155,3 +155,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying [Fu et al., 2026|https://doi.org/10.1016/j.neuron.2026.02.022]
+    <ul>
+      <li>[center-surround|https://github.com/lucabaroni/center-surround]</li>
+    </ul>
+  </li>
+</ul>
