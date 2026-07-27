@@ -162,3 +162,10 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
     </ul>
   </li>
 </ul>
+<ul>
+  <li>Code accompanying an upcomming publication (will be added)
+    <ul>
+      <li>[Schizophrenia-qpp-cPCA-dynamics|https://github.com/Dalimear/Schizophrenia-qpp-cPCA-dynamics]</li>
+    </ul>
+  </li>
+</ul>
