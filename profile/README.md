@@ -128,13 +128,6 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code accompanying [Martín et al., 2025|https://doi.org/10.1002/advs.202406440]
-    <ul>
-      <li>[tvb-cpp|https://github.com/neich/tvb-cpp]</li>
-    </ul>
-  </li>
-</ul>
-<ul>
   <li>Code accompanying [Girier et al., 2025|https://doi.org/10.1371/journal.pcbi.1013838]
     <ul>
       <li>[Low-Frequency-Electrical-Stimulation-and-Seizure-Delay|https://github.com/GuillaumeGirier/Low-Frequency-Electrical-Stimulation-and-Seizure-Delay]</li>
