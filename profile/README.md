@@ -30,6 +30,13 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
 ## Results
 
 <ul>
+  <li>Code accompanying [Kang et al., 2024|https://doi.org/10.1016/j.neunet.2024.106410]
+    <ul>
+      <li>[inhibited-lora|https://https://github.com/ChengKang520/inhibited-lora]</li>
+    </ul>
+  </li>
+</ul>
+<ul>
   <li>Code accompanying [Ghosh et al., 2025|https://doi.org/10.1101/2024.05.26.595969]
     <ul>
       <li>[amplitude-chimera-epilepsy|https://github.com/cobragroup/amplitude-chimera-epilepsy]</li>
