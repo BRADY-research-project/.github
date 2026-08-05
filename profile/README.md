@@ -44,7 +44,7 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code
+  <li>Code accompanying [Berling et al., 2024|https://doi.org/10.1523/JNEUROSCI.1215-24.2024]
     <ul>
       <li>[osmorph|https://github.com/CSNG-MFF/osmorph/]</li>
     </ul>
