@@ -72,7 +72,7 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code accompanying [Hammer et al., 2024|https://doi.org/10.1038/s42003-024-06732-2]
+  <li>Code accompanying [Hammer et al., 2024|https://doi.org/10.1038/s42003-024-06732-2] and [Kalinova et al., 2026|https://doi.org/10.1038/s41598-026-36122-z]
     <ul>
       <li>[SEEG_dataAnalysis|https://github.com/JiriHammer/SEEG_dataAnalysis]</li>
     </ul>
