@@ -170,16 +170,16 @@ For available positions, see this [page](https://cobra.cs.cas.cz/wiki/pmwiki.php
   </li>
 </ul>
 <ul>
-  <li>Code accompanying [Harrison et al.|https://doi.org/10.64898/2026.07.24.740570, preprint]
+  <li>Code accompanying [Jiricek et al., 2026|https://doi.org/10.1162/NETN.a.612]
     <ul>
-      <li>[Schizophrenia-qpp-cPCA-dynamics|https://github.com/Dalimear/Schizophrenia-qpp-cPCA-dynamics]</li>
+      <li>[AlphaMap|https://github.com/cobragroup/AlphaMap]</li>
     </ul>
   </li>
 </ul>
 <ul>
-  <li>Code accompanying [Jiricek et al.|https://doi.org/10.64898/2026.04.14.718407, preprint]
+  <li>Code accompanying [Harrison et al.|https://doi.org/10.64898/2026.07.24.740570, preprint]
     <ul>
-      <li>[AlphaMap|https://github.com/cobragroup/AlphaMap]</li>
+      <li>[Schizophrenia-qpp-cPCA-dynamics|https://github.com/Dalimear/Schizophrenia-qpp-cPCA-dynamics]</li>
     </ul>
   </li>
 </ul>
